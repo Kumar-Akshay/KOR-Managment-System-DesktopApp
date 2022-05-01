@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KORInventory", "KORInventory\KORInventory.csproj", "{B4807722-5EFF-401E-B291-3E33B8132B4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KORDAL", "KORDAL\KORDAL.csproj", "{D6B846CA-788F-421C-BF7D-637578C6D1FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4807722-5EFF-401E-B291-3E33B8132B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4807722-5EFF-401E-B291-3E33B8132B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4807722-5EFF-401E-B291-3E33B8132B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4807722-5EFF-401E-B291-3E33B8132B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6B846CA-788F-421C-BF7D-637578C6D1FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B846CA-788F-421C-BF7D-637578C6D1FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B846CA-788F-421C-BF7D-637578C6D1FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B846CA-788F-421C-BF7D-637578C6D1FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7877567-8A6C-4F1D-98B4-52CF2A5134C3}
+	EndGlobalSection
+EndGlobal

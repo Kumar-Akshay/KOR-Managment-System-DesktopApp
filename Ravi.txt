@@ -1,0 +1,56 @@
+WINDOWS DESKTOP APPLICATION
+SQL SERVER
+----------------------------------------------------------------------------------------------------------------------------------------------------
+Customer
+------------------------------------------
+ID
+BillNo
+Name
+Address
+PhoneNumber
+
+
+
+
+
+Invoice
+-------------------------------------------
+InvoiceId
+ID
+BillNo
+DueAmount
+SubmitAmount
+TotalAmount
+DueAmountDate
+PurchaseDate
+
+---------------------------------
+1.Login(Register , password change)
+2.Show Dashboard - Customer who has today due date - Click to show the Customer Profile -Has Amount btn click shows the amount history
+3.Add the 2 days ahead if amount duedate passed,
+4.Seach the customer with like operator - Old Customer if customer found
+	Add new Invoice - add btton add the payment records - total bill and amountgive and amount due and duedate
+5.New Customer
+	Fill the customer feilds and add invoice entry.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+Dealer
+
+DealerId
+Name
+Phone
+Address
+
+
+DealerInvoice
+
+DinvoiceId
+BillNo
+TotalAmount
+DueAmount
+SubmitAmount
+PurchaseDate

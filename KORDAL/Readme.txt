@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Server=KHILT-8260\SQLEXPRESS;Database=KORInventoryDB;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -force

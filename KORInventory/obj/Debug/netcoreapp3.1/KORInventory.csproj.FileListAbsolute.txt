@@ -1,0 +1,296 @@
+C:\Users\akshay.kumar\Desktop\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\KORInventory.exe
+C:\Users\akshay.kumar\Desktop\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\KORInventory.dll.config
+C:\Users\akshay.kumar\Desktop\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\KORInventory.deps.json
+C:\Users\akshay.kumar\Desktop\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\KORInventory.runtimeconfig.json
+C:\Users\akshay.kumar\Desktop\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\KORInventory.runtimeconfig.dev.json
+C:\Users\akshay.kumar\Desktop\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\KORInventory.dll
+C:\Users\akshay.kumar\Desktop\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\KORInventory.pdb
+C:\Users\akshay.kumar\Desktop\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\akshay.kumar\Desktop\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\akshay.kumar\Desktop\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\akshay.kumar\Desktop\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\akshay.kumar\Desktop\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\akshay.kumar\Desktop\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\akshay.kumar\Desktop\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.csprojAssemblyReference.cache
+C:\Users\akshay.kumar\Desktop\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.DashboardForm.resources
+C:\Users\akshay.kumar\Desktop\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.Forms_UserControls.AddCustomer.resources
+C:\Users\akshay.kumar\Desktop\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.Forms_UserControls.CustomerDetailUserControl.resources
+C:\Users\akshay.kumar\Desktop\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.Forms_UserControls.DeleteCustomer.resources
+C:\Users\akshay.kumar\Desktop\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.Forms_UserControls.ListCustomerUserControl.resources
+C:\Users\akshay.kumar\Desktop\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.Forms_UserControls.ManageCustomer.resources
+C:\Users\akshay.kumar\Desktop\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.Forms_UserControls.UpdateCustomer.resources
+C:\Users\akshay.kumar\Desktop\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.LoginForm.resources
+C:\Users\akshay.kumar\Desktop\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Properties.Resources.resources
+C:\Users\akshay.kumar\Desktop\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.csproj.GenerateResource.cache
+C:\Users\akshay.kumar\Desktop\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.AssemblyInfoInputs.cache
+C:\Users\akshay.kumar\Desktop\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.AssemblyInfo.cs
+C:\Users\akshay.kumar\Desktop\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.csproj.CoreCompileInputs.cache
+C:\Users\akshay.kumar\Desktop\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.csproj.CopyComplete
+C:\Users\akshay.kumar\Desktop\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.dll
+C:\Users\akshay.kumar\Desktop\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.pdb
+C:\Users\akshay.kumar\Desktop\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.genruntimeconfig.cache
+E:\KumarAkshay USB\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\KORInventory.exe
+E:\KumarAkshay USB\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\KORInventory.dll.config
+E:\KumarAkshay USB\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\KORInventory.deps.json
+E:\KumarAkshay USB\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\KORInventory.runtimeconfig.json
+E:\KumarAkshay USB\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\KORInventory.runtimeconfig.dev.json
+E:\KumarAkshay USB\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\KORInventory.dll
+E:\KumarAkshay USB\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\KORInventory.pdb
+E:\KumarAkshay USB\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\KumarAkshay USB\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\KumarAkshay USB\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\KumarAkshay USB\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\KumarAkshay USB\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\KumarAkshay USB\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\KumarAkshay USB\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.csprojAssemblyReference.cache
+E:\KumarAkshay USB\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.DashboardForm.resources
+E:\KumarAkshay USB\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.Forms_UserControls.AddCustomer.resources
+E:\KumarAkshay USB\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.Forms_UserControls.CustomerDetailUserControl.resources
+E:\KumarAkshay USB\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.Forms_UserControls.DeleteCustomer.resources
+E:\KumarAkshay USB\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.Forms_UserControls.ListCustomerUserControl.resources
+E:\KumarAkshay USB\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.Forms_UserControls.ManageCustomer.resources
+E:\KumarAkshay USB\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.Forms_UserControls.UpdateCustomer.resources
+E:\KumarAkshay USB\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.LoginForm.resources
+E:\KumarAkshay USB\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Properties.Resources.resources
+E:\KumarAkshay USB\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.csproj.GenerateResource.cache
+E:\KumarAkshay USB\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.AssemblyInfoInputs.cache
+E:\KumarAkshay USB\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.AssemblyInfo.cs
+E:\KumarAkshay USB\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.csproj.CoreCompileInputs.cache
+E:\KumarAkshay USB\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.csproj.CopyComplete
+E:\KumarAkshay USB\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.dll
+E:\KumarAkshay USB\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.pdb
+E:\KumarAkshay USB\asgnm\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.genruntimeconfig.cache
+E:\KumarAkshay-USB\Project\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\KORInventory.exe
+E:\KumarAkshay-USB\Project\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\KORInventory.dll.config
+E:\KumarAkshay-USB\Project\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\KORInventory.deps.json
+E:\KumarAkshay-USB\Project\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\KORInventory.runtimeconfig.json
+E:\KumarAkshay-USB\Project\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\KORInventory.runtimeconfig.dev.json
+E:\KumarAkshay-USB\Project\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\KORInventory.dll
+E:\KumarAkshay-USB\Project\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\KORInventory.pdb
+E:\KumarAkshay-USB\Project\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\KumarAkshay-USB\Project\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\KumarAkshay-USB\Project\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\KumarAkshay-USB\Project\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\KumarAkshay-USB\Project\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\KumarAkshay-USB\Project\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\KumarAkshay-USB\Project\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.DashboardForm.resources
+E:\KumarAkshay-USB\Project\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.Forms_UserControls.AddCustomer.resources
+E:\KumarAkshay-USB\Project\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.Forms_UserControls.CustomerDetailUserControl.resources
+E:\KumarAkshay-USB\Project\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.Forms_UserControls.DeleteCustomer.resources
+E:\KumarAkshay-USB\Project\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.Forms_UserControls.ListCustomerUserControl.resources
+E:\KumarAkshay-USB\Project\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.Forms_UserControls.ManageCustomer.resources
+E:\KumarAkshay-USB\Project\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.Forms_UserControls.UpdateCustomer.resources
+E:\KumarAkshay-USB\Project\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.LoginForm.resources
+E:\KumarAkshay-USB\Project\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Properties.Resources.resources
+E:\KumarAkshay-USB\Project\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.csproj.GenerateResource.cache
+E:\KumarAkshay-USB\Project\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.AssemblyInfoInputs.cache
+E:\KumarAkshay-USB\Project\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.AssemblyInfo.cs
+E:\KumarAkshay-USB\Project\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.csproj.CoreCompileInputs.cache
+E:\KumarAkshay-USB\Project\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.csproj.CopyComplete
+E:\KumarAkshay-USB\Project\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.dll
+E:\KumarAkshay-USB\Project\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.pdb
+E:\KumarAkshay-USB\Project\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.genruntimeconfig.cache
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\KORInventory.exe
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\KORInventory.dll.config
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\KORInventory.deps.json
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\KORInventory.runtimeconfig.json
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\KORInventory.runtimeconfig.dev.json
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\KORInventory.dll
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\KORInventory.pdb
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\KORDAL.dll
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\bin\Debug\netcoreapp3.1\KORDAL.pdb
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.csproj.AssemblyReference.cache
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.DashboardForm.resources
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.Forms_UserControls.AddCustomer.resources
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.Forms_UserControls.CustomerDetailUserControl.resources
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.Forms_UserControls.DeleteCustomer.resources
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.Forms_UserControls.ListCustomerUserControl.resources
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.Forms_UserControls.ManageCustomer.resources
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.Forms_UserControls.UpdateCustomer.resources
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.LoginForm.resources
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Properties.Resources.resources
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.csproj.GenerateResource.cache
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.AssemblyInfoInputs.cache
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.AssemblyInfo.cs
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.csproj.CoreCompileInputs.cache
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.csproj.CopyComplete
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.dll
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.pdb
+D:\Extra\KORInventoryShop\KORInventoryShop\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.genruntimeconfig.cache
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\KORInventory.exe
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\KORInventory.dll.config
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\KORInventory.deps.json
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\KORInventory.runtimeconfig.json
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\KORInventory.runtimeconfig.dev.json
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\KORInventory.dll
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\KORInventory.pdb
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\KORDAL.dll
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\bin\Debug\netcoreapp3.1\KORDAL.pdb
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.csproj.AssemblyReference.cache
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.DashboardForm.resources
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.Forms_UserControls.AddCustomer.resources
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.Forms_UserControls.CustomerDetailUserControl.resources
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.Forms_UserControls.DeleteCustomer.resources
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.Forms_UserControls.ListCustomerUserControl.resources
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.Forms_UserControls.ManageCustomer.resources
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.Forms_UserControls.UpdateCustomer.resources
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.LoginForm.resources
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Properties.Resources.resources
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.csproj.GenerateResource.cache
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.AssemblyInfoInputs.cache
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.AssemblyInfo.cs
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.csproj.CoreCompileInputs.cache
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.csproj.CopyComplete
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.dll
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.pdb
+D:\Extra\KOR-Inventory-Store-Management-Systems\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.genruntimeconfig.cache
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\KORInventory.exe
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\KORInventory.dll.config
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\KORInventory.deps.json
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\KORInventory.runtimeconfig.json
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\KORInventory.runtimeconfig.dev.json
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\KORInventory.dll
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\KORInventory.pdb
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\FontAwesome.Sharp.dll
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\KORDAL.dll
+D:\Extra\KOR\KORInventory\bin\Debug\netcoreapp3.1\KORDAL.pdb
+D:\Extra\KOR\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.csproj.AssemblyReference.cache
+D:\Extra\KOR\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.DashboardForm.resources
+D:\Extra\KOR\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.Forms_UserControls.AddCustomer.resources
+D:\Extra\KOR\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.Forms_UserControls.CustomerDetailUserControl.resources
+D:\Extra\KOR\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.Forms_UserControls.CustomerInvoice.resources
+D:\Extra\KOR\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.Forms_UserControls.DashboardUserControl.resources
+D:\Extra\KOR\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.Forms_UserControls.DeleteCustomer.resources
+D:\Extra\KOR\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.Forms_UserControls.ListCustomerUserControl.resources
+D:\Extra\KOR\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.Forms_UserControls.ManageCustomer.resources
+D:\Extra\KOR\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.Forms_UserControls.UpdateCustomer.resources
+D:\Extra\KOR\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Forms.LoginForm.resources
+D:\Extra\KOR\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.Properties.Resources.resources
+D:\Extra\KOR\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.csproj.GenerateResource.cache
+D:\Extra\KOR\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Extra\KOR\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.AssemblyInfoInputs.cache
+D:\Extra\KOR\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.AssemblyInfo.cs
+D:\Extra\KOR\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.csproj.CoreCompileInputs.cache
+D:\Extra\KOR\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.csproj.CopyComplete
+D:\Extra\KOR\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.dll
+D:\Extra\KOR\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.pdb
+D:\Extra\KOR\KORInventory\obj\Debug\netcoreapp3.1\KORInventory.genruntimeconfig.cache
